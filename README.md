@@ -20,3 +20,5 @@ and used inside the test, enabling access to the driver object
 which subsequently is used by all page objects constructors;
 - "test_data.py" contains the url and 2 mobile devices types;
 
+Test execution gif:
+![](https://github.com/andreimdnet/ht-testing/blob/main/twitch_test.gif)
